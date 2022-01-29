@@ -1,7 +1,7 @@
 # KP3S - STM32F407
 
 
-Marlin 2.0.9.3 built for KP3S tia
+Marlin 2.0.9.3 built for KP3S 
 OEM titan extruder
 bltouch, babysteps etc.
 
